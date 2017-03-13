@@ -21,5 +21,5 @@ public class HelloWorldygoerguelue {
 	
 	public static void Pisser(){
 		System.out.println("Daniel du Pisser!");
-	}
+	} 
 }
