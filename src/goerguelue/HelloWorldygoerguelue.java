@@ -18,4 +18,8 @@ public class HelloWorldygoerguelue {
 	public static void grussen(String name){
 		System.out.println(name);
 	}
+	
+	public static void Pisser(){
+		System.out.println("Daniel du Pisser!");
+	}
 }
