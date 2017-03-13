@@ -14,4 +14,8 @@ public class HelloWorldygoerguelue {
 		System.out.println("Alles Liebe vong greetings her");
 		System.out.println("#animalshaverightstoo");
 	}
+	
+	public static void grussen(String name){
+		System.out.println(name);
+	}
 }
